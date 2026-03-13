@@ -3074,16 +3074,17 @@ ul.social_item li a:hover {
 }
 
 /* Home Banner01 Static   */
-.fiexdBanner_cont h2 {
+fiexdBanner_cont h2 {
   text-align: left;
   line-height: 150px;
   letter-spacing: -1.5px;
   font-weight: 700;
-  font-size: 70px;
+  font-size: 150px;
   color: rgb(255, 255, 255);
   text-transform: uppercase;
   margin-left: -1px;
 }
+
 .fiexdBanner_cont h2 span {
   padding-left: 103px;
 }
