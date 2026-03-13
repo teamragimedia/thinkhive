@@ -3074,7 +3074,7 @@ ul.social_item li a:hover {
 }
 
 /* Home Banner01 Static   */
-fiexdBanner_cont h2 {
+.fiexdBanner_cont h2 {
   text-align: left;
   line-height: 150px;
   letter-spacing: -1.5px;
