@@ -80,6 +80,12 @@ License URI:
   padding: 34px 0 35px;
   margin-right: 57px;
 }
+@media (max-width: 768px) {
+  .logo {
+    margin-right: 0px;
+    width: 29%;
+  }
+}
 .logo a {
   display: inline-block;
   line-height: 1;
